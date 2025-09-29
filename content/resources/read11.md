@@ -4,6 +4,8 @@ description: Reading tips and study questions for Lecture 11 on planning as faci
 file: /courses/11-201-gateway-planning-action-fall-2007/82b6ca203f34f960a3a98da2261c9abe_read11.pdf
 file_size: 15742
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: 'Lecture slides on planning and human diversity: issues and stakes.
 file: /courses/11-201-gateway-planning-action-fall-2007/e9f0c29dec495f1ac1a7e9914b9b9b43_slides17.pdf
 file_size: 88319
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

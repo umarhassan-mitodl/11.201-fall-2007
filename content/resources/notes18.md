@@ -5,6 +5,8 @@ description: 'Lecture notes on planning and cultural diversity, and two cases: c
 file: /courses/11-201-gateway-planning-action-fall-2007/5e1a1ba5636f876adb619b2426885ea5_notes18.pdf
 file_size: 31609
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Reading tips and study questions for Lecture 16 on multi-level plan
 file: /courses/11-201-gateway-planning-action-fall-2007/fa2f055f9884b6fd472f0caa5c8435e3_read16.pdf
 file_size: 20760
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

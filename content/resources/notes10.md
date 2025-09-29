@@ -5,6 +5,8 @@ description: Lecture notes on planning as facilitation, resource conflict, and t
 file: /courses/11-201-gateway-planning-action-fall-2007/42c8c1042b0b562fd88af77fece95b0a_notes10.pdf
 file_size: 29001
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

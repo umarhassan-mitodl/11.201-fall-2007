@@ -4,6 +4,8 @@ description: Example of feedback and evaluation for the team briefing assignment
 file: /courses/11-201-gateway-planning-action-fall-2007/6edbf3597826746d493ea7c351d8c11a_feedback3.pdf
 file_size: 19524
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

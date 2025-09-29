@@ -5,6 +5,8 @@ description: Lecture notes on planning as interest-group politics, citizen parti
 file: /courses/11-201-gateway-planning-action-fall-2007/b81c748927e02b77a40b91765d4f89d8_notes9.pdf
 file_size: 34799
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

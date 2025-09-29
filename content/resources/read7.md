@@ -5,6 +5,8 @@ description: Reading tips and study questions for Lecture 7 on planning as socia
 file: /courses/11-201-gateway-planning-action-fall-2007/f122cbab4faf29bacfede2cd3b0761ac_read7.pdf
 file_size: 16792
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

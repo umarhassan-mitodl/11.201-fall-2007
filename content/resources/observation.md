@@ -6,6 +6,8 @@ description: 'Planning observation exercise: You Can See a Lot by Looking. Assig
 file: /courses/11-201-gateway-planning-action-fall-2007/c3f48ecd11f5d2e92321121d49aed5cc_observation.pdf
 file_size: 36939
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

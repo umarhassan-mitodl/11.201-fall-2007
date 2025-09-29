@@ -5,6 +5,8 @@ description: 'Lecture notes on planning as social reform through expert design a
 file: /courses/11-201-gateway-planning-action-fall-2007/243a18ece5bc9ecfe3f56c885b069bc9_notes7.pdf
 file_size: 25539
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

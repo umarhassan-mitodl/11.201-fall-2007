@@ -5,6 +5,8 @@ description: Lecture slides on rethinking planning and participation, new techno
 file: /courses/11-201-gateway-planning-action-fall-2007/09e25617f36354516e3e295bf0883bc0_slides19.pdf
 file_size: 252786
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

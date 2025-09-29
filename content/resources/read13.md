@@ -5,6 +5,8 @@ description: Reading tips and study questions for Lecture 13 on land takings and
 file: /courses/11-201-gateway-planning-action-fall-2007/2513e10bc7c7a1d25b506005b39828f4_read13.pdf
 file_size: 19325
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: Assignment to write an essay on on "Rebuilding Los Angeles," using 
 file: /courses/11-201-gateway-planning-action-fall-2007/3c76fa813eb6f35f8f973edbbe4188c4_diagnostic.pdf
 file_size: 36090
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
