@@ -5,8 +5,6 @@ description: 'Lecture slides on New Orleans recovery planning: insights from eco
 file: /courses/11-201-gateway-planning-action-fall-2007/ec1ee20f811e47d8a55fab2236ced2da_slides3.pdf
 file_size: 65165
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

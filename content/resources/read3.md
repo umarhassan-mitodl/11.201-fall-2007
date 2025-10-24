@@ -4,8 +4,6 @@ description: Reading tips and study questions for Lecture 3 on New Orleans recov
 file: /courses/11-201-gateway-planning-action-fall-2007/def767568252142bc0ed26a497c3f7f8_read3.pdf
 file_size: 23504
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

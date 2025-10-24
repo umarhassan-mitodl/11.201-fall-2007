@@ -5,8 +5,6 @@ description: Lecture slides with a course review and discussion on planning your
 file: /courses/11-201-gateway-planning-action-fall-2007/f1b0ad92296983a0ff598ade2d586ea5_slides25.pdf
 file_size: 67970
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

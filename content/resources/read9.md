@@ -5,8 +5,6 @@ description: Reading tips and study questions for Lecture 9 on planning as citiz
 file: /courses/11-201-gateway-planning-action-fall-2007/0e5bb33859991d7abc2f2eba82844b25_read9.pdf
 file_size: 44126
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

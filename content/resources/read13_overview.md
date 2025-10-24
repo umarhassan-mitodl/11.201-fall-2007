@@ -5,8 +5,6 @@ description: Overview of the final unit of the course, addressing more specific 
 file: /courses/11-201-gateway-planning-action-fall-2007/6421c70472593aa73bd603862cb57cec_read13_overview.pdf
 file_size: 26591
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

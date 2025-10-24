@@ -4,8 +4,6 @@ description: Reading tips and study questions for Lecture 25.
 file: /courses/11-201-gateway-planning-action-fall-2007/c6063737f8fa7f7b2f1023ffcbccd8de_read25.pdf
 file_size: 17748
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

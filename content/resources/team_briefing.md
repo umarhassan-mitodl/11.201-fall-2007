@@ -7,8 +7,6 @@ description: 'Team Briefing Assignment: How "Good" are the New Orleans Recovery 
 file: /courses/11-201-gateway-planning-action-fall-2007/9644e3b9c682931b4ec71a6c2ccdad20_team_briefing.pdf
 file_size: 159958
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

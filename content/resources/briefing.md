@@ -5,8 +5,6 @@ description: Slides from a communication workshop on how to prepare and deliver 
 file: /courses/11-201-gateway-planning-action-fall-2007/4b30929f6609149293b7eb3ec2abd9e8_briefing.pdf
 file_size: 561424
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

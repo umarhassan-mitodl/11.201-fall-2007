@@ -5,8 +5,6 @@ description: 'Midterm exam with three essay questions on planning action: dilemm
 file: /courses/11-201-gateway-planning-action-fall-2007/4e50b9ab1b648a64f1a635a69612961c_midterm.pdf
 file_size: 55135
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

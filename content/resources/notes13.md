@@ -6,8 +6,6 @@ description: Lecture notes on land takings in fast-growing economies, land polic
 file: /courses/11-201-gateway-planning-action-fall-2007/4c4661c51201667be2389e8a3db3dc51_notes13.pdf
 file_size: 30710
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

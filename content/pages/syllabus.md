@@ -4,8 +4,6 @@ description: The syllabus section provides an overview of the course and informa
   about course format and requirements, structure, assignments, evaluation and feedback,
   professional communication, class meetings, teaching styles, the teaching team,
   and course materials.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

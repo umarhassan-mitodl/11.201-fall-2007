@@ -5,8 +5,6 @@ description: Reading tips and study questions for Lecture 5 on judging the New O
 file: /courses/11-201-gateway-planning-action-fall-2007/0d4db6587a3e437feeb0839654707508_read5.pdf
 file_size: 13326
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

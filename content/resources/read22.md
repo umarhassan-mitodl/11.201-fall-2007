@@ -5,8 +5,6 @@ description: Reading tips and study questions for Lecture 22 on planning and the
 file: /courses/11-201-gateway-planning-action-fall-2007/0bed81ee3247a2af707196a2ae311bc7_read22.pdf
 file_size: 15723
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

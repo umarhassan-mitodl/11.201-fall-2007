@@ -5,8 +5,6 @@ description: Lecture notes on planning as interest-group politics, sustainabilit
 file: /courses/11-201-gateway-planning-action-fall-2007/f59204b57e3bc79db995c58375cd9c82_notes8.pdf
 file_size: 33897
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains the course writing assignments, including the take-home
   midterm exam.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

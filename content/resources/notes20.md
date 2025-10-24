@@ -5,8 +5,6 @@ description: Lecture notes on participating in the grassroots and "grasstops", p
 file: /courses/11-201-gateway-planning-action-fall-2007/1f8e6203e8b12c93451b112800959d74_notes20.pdf
 file_size: 30147
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

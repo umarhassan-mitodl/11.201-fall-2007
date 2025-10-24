@@ -5,8 +5,6 @@ description: Reading tips and study questions for Lecture 18 on planning and soc
 file: /courses/11-201-gateway-planning-action-fall-2007/1191ade39d6b9a6becc4aea63076f58e_read18.pdf
 file_size: 15130
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

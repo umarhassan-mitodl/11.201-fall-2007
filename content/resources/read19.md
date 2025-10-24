@@ -4,8 +4,6 @@ description: Reading tips and study questions for Lecture 19 on planning and par
 file: /courses/11-201-gateway-planning-action-fall-2007/df76e4ab8d891dd07b163f83362d3184_read19.pdf
 file_size: 13042
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

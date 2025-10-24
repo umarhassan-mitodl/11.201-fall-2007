@@ -4,8 +4,6 @@ description: Slides from a communication workshop on effective professional writ
 file: /courses/11-201-gateway-planning-action-fall-2007/187a659b2da3712a3e6140423fbef9a3_memo.pdf
 file_size: 81455
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

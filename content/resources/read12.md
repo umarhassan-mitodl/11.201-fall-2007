@@ -5,8 +5,6 @@ description: Reading tips and study questions for Lecture 12 on the clash of pla
 file: /courses/11-201-gateway-planning-action-fall-2007/597d2e17abf8a8ec92c45ea77709d39d_read12.pdf
 file_size: 17503
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
